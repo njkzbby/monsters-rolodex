@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  background: -webkit-linear-gradient(rgb(43, 61, 65), rgba(16, 214, 59, 0.61));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
